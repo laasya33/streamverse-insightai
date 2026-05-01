@@ -1,0 +1,16 @@
+movie_id,title,genre,release_year,imdb_rating,budget_usd,revenue_usd,runtime_min,language,director
+M001,Stellar Run,Sci-Fi,2024,8.2,19000000,16958256,125,Hindi,Kabir Khan
+M002,Dark Orbit,Sci-Fi,2024,7.9,22000000,77548756,159,Hindi,Farhan Akhtar
+M003,Last Kingdom,Drama,2024,8.5,9000000,8192247,117,Hindi,Raj Mehta
+M004,Laugh Factory,Comedy,2025,5.8,76000000,116713147,159,English,Kabir Khan
+M005,Neon Nights,Thriller,2025,7.4,62000000,184777547,90,Hindi,Farhan Akhtar
+M006,The Lost Signal,Drama,2025,8.1,48000000,87749950,117,English,Anurag Bose
+M007,Crimson Tide 2,Action,2025,7.6,16000000,35291696,135,English,SS Rajamouli
+M008,Comic Rush,Comedy,2024,5.2,10000000,35000076,158,Hindi,Farhan Akhtar
+M009,Shadow Protocol,Thriller,2025,7.8,15000000,42638255,136,Telugu,Kabir Khan
+M010,Galaxy Drift,Sci-Fi,2025,8.4,13000000,12604152,119,English,Anurag Bose
+M011,Heartstrings,Romance,2025,7.1,34000000,136203645,138,English,Sanjay Leela Bhansali
+M012,Iron Fist Returns,Action,2025,7.3,51000000,71492828,135,Hindi,SS Rajamouli
+M013,The Comedy Hour,Comedy,2025,5.5,14000000,42752986,111,Telugu,Kabir Khan
+M014,Quantum Break,Sci-Fi,2025,8.0,25000000,62759069,124,Telugu,Kabir Khan
+M015,Midnight Chase,Thriller,2024,7.7,46000000,180253396,97,Hindi,Raj Mehta

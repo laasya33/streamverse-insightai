@@ -1,0 +1,801 @@
+review_id,movie_id,viewer_id,review_date,sentiment,score,review_text
+R0001,M013,V0012,2025-02-16,positive,7,Outstanding performance.
+R0002,M004,V0224,2025-02-12,positive,8,Outstanding performance.
+R0003,M006,V0256,2025-02-07,negative,1,Comedy fell completely flat.
+R0004,M014,V0311,2024-11-22,positive,8,Outstanding performance.
+R0005,M003,V0308,2025-03-28,negative,2,Comedy fell completely flat.
+R0006,M003,V0107,2024-11-25,positive,7,Outstanding performance.
+R0007,M006,V0141,2024-12-03,positive,7,Outstanding performance.
+R0008,M015,V0195,2025-03-03,negative,4,Comedy fell completely flat.
+R0009,M001,V0125,2025-03-15,positive,10,Absolutely loved it!
+R0010,M008,V0200,2025-02-24,negative,1,Poor screenplay and weak characters.
+R0011,M006,V0011,2025-02-03,positive,7,"Gripping storyline, great visuals."
+R0012,M012,V0466,2025-01-17,positive,8,Absolutely loved it!
+R0013,M007,V0179,2024-11-28,neutral,5,Average plot but good acting.
+R0014,M006,V0246,2024-11-10,neutral,5,"Decent watch, nothing special."
+R0015,M004,V0331,2025-02-10,positive,10,Highly recommend!
+R0016,M009,V0434,2024-10-10,negative,4,Comedy fell completely flat.
+R0017,M006,V0390,2024-11-28,negative,1,Disappointing story.
+R0018,M012,V0048,2025-03-07,negative,3,Disappointing story.
+R0019,M005,V0269,2024-12-05,negative,2,Comedy fell completely flat.
+R0020,M003,V0073,2025-01-20,neutral,5,Average plot but good acting.
+R0021,M014,V0118,2025-01-13,negative,3,Poor screenplay and weak characters.
+R0022,M003,V0035,2024-11-29,positive,9,Absolutely loved it!
+R0023,M010,V0294,2025-03-17,negative,1,Not worth the time.
+R0024,M005,V0241,2025-01-17,positive,9,Must watch!
+R0025,M004,V0414,2024-11-20,negative,1,Disappointing story.
+R0026,M002,V0138,2024-11-15,negative,2,Disappointing story.
+R0027,M013,V0284,2025-01-03,positive,8,Must watch!
+R0028,M003,V0478,2024-11-17,positive,9,Must watch!
+R0029,M013,V0167,2024-11-13,negative,1,Poor screenplay and weak characters.
+R0030,M009,V0257,2025-02-07,negative,1,Disappointing story.
+R0031,M007,V0086,2024-10-13,negative,3,Comedy fell completely flat.
+R0032,M003,V0124,2025-03-05,negative,3,Poor screenplay and weak characters.
+R0033,M010,V0237,2024-12-02,neutral,5,Average plot but good acting.
+R0034,M003,V0366,2024-12-03,negative,2,Not worth the time.
+R0035,M011,V0387,2024-10-11,positive,10,Absolutely loved it!
+R0036,M007,V0001,2024-12-13,negative,3,Comedy fell completely flat.
+R0037,M009,V0347,2025-01-10,positive,8,Highly recommend!
+R0038,M009,V0456,2025-02-12,positive,7,"Gripping storyline, great visuals."
+R0039,M011,V0182,2025-03-05,positive,9,Highly recommend!
+R0040,M012,V0385,2024-12-04,positive,7,Highly recommend!
+R0041,M015,V0086,2025-02-06,positive,7,"Gripping storyline, great visuals."
+R0042,M003,V0106,2024-10-19,negative,1,Poor screenplay and weak characters.
+R0043,M014,V0060,2025-03-04,neutral,5,Average plot but good acting.
+R0044,M007,V0154,2025-01-04,positive,7,Absolutely loved it!
+R0045,M006,V0102,2024-10-05,positive,8,Must watch!
+R0046,M007,V0231,2025-03-01,negative,3,Not worth the time.
+R0047,M011,V0203,2024-12-02,neutral,5,"Decent watch, nothing special."
+R0048,M001,V0463,2025-01-21,negative,4,Poor screenplay and weak characters.
+R0049,M008,V0239,2025-01-28,positive,7,Outstanding performance.
+R0050,M015,V0238,2024-11-03,negative,4,Comedy fell completely flat.
+R0051,M001,V0486,2024-11-07,negative,4,Disappointing story.
+R0052,M005,V0028,2024-12-29,neutral,6,Average plot but good acting.
+R0053,M015,V0455,2025-03-17,positive,7,"Gripping storyline, great visuals."
+R0054,M002,V0151,2024-12-30,positive,10,Highly recommend!
+R0055,M009,V0021,2025-01-31,positive,8,Absolutely loved it!
+R0056,M006,V0100,2024-12-19,neutral,6,"It was okay, expected more."
+R0057,M003,V0052,2024-11-07,negative,1,Poor screenplay and weak characters.
+R0058,M001,V0261,2024-11-25,negative,1,Poor screenplay and weak characters.
+R0059,M001,V0207,2024-12-25,positive,8,Highly recommend!
+R0060,M008,V0319,2024-12-23,neutral,6,Average plot but good acting.
+R0061,M006,V0411,2025-02-10,negative,1,Disappointing story.
+R0062,M015,V0389,2025-02-02,positive,8,"Gripping storyline, great visuals."
+R0063,M013,V0019,2025-03-20,positive,9,Highly recommend!
+R0064,M012,V0260,2024-10-18,positive,10,Must watch!
+R0065,M015,V0170,2025-03-19,positive,7,"Gripping storyline, great visuals."
+R0066,M012,V0074,2024-11-06,neutral,5,"Decent watch, nothing special."
+R0067,M002,V0197,2024-12-10,positive,10,"Gripping storyline, great visuals."
+R0068,M004,V0023,2024-12-17,negative,1,Disappointing story.
+R0069,M003,V0215,2025-02-23,negative,4,Not worth the time.
+R0070,M007,V0219,2025-02-18,negative,3,Poor screenplay and weak characters.
+R0071,M015,V0001,2024-10-17,negative,4,Not worth the time.
+R0072,M014,V0136,2025-02-01,negative,1,Disappointing story.
+R0073,M004,V0469,2024-11-12,positive,8,"Gripping storyline, great visuals."
+R0074,M002,V0343,2025-01-26,negative,2,Poor screenplay and weak characters.
+R0075,M010,V0436,2025-01-29,neutral,6,Average plot but good acting.
+R0076,M010,V0281,2024-12-24,positive,9,Outstanding performance.
+R0077,M009,V0342,2025-03-24,negative,3,Poor screenplay and weak characters.
+R0078,M013,V0399,2024-12-02,positive,10,Must watch!
+R0079,M014,V0223,2025-02-01,negative,1,Poor screenplay and weak characters.
+R0080,M006,V0154,2025-02-05,positive,9,"Gripping storyline, great visuals."
+R0081,M001,V0154,2024-12-05,positive,10,Absolutely loved it!
+R0082,M014,V0285,2024-11-27,negative,3,Not worth the time.
+R0083,M015,V0238,2024-11-09,negative,4,Disappointing story.
+R0084,M012,V0259,2025-01-01,positive,9,"Gripping storyline, great visuals."
+R0085,M012,V0215,2025-02-23,positive,7,Outstanding performance.
+R0086,M005,V0125,2024-11-11,negative,2,Comedy fell completely flat.
+R0087,M015,V0397,2024-12-20,negative,2,Disappointing story.
+R0088,M007,V0418,2025-01-19,positive,7,Must watch!
+R0089,M007,V0016,2024-12-25,positive,8,Outstanding performance.
+R0090,M002,V0121,2025-02-02,neutral,5,Average plot but good acting.
+R0091,M015,V0302,2024-11-24,positive,7,"Gripping storyline, great visuals."
+R0092,M007,V0147,2024-12-02,negative,4,Not worth the time.
+R0093,M006,V0307,2024-12-23,negative,3,Comedy fell completely flat.
+R0094,M014,V0052,2024-10-22,negative,2,Disappointing story.
+R0095,M013,V0077,2025-02-16,negative,1,Comedy fell completely flat.
+R0096,M008,V0479,2025-03-28,negative,2,Not worth the time.
+R0097,M001,V0242,2024-11-15,negative,1,Disappointing story.
+R0098,M003,V0432,2025-01-02,neutral,5,"It was okay, expected more."
+R0099,M011,V0342,2025-02-24,neutral,6,"Decent watch, nothing special."
+R0100,M001,V0458,2024-12-19,negative,3,Poor screenplay and weak characters.
+R0101,M002,V0299,2024-10-22,negative,1,Disappointing story.
+R0102,M010,V0421,2024-11-19,negative,1,Not worth the time.
+R0103,M015,V0422,2025-02-03,positive,7,Absolutely loved it!
+R0104,M005,V0150,2025-03-07,positive,10,Highly recommend!
+R0105,M002,V0146,2024-11-05,positive,10,Absolutely loved it!
+R0106,M008,V0437,2024-12-06,positive,10,Must watch!
+R0107,M011,V0050,2025-02-05,positive,9,Highly recommend!
+R0108,M004,V0017,2025-01-09,neutral,5,Average plot but good acting.
+R0109,M011,V0356,2025-01-30,negative,3,Comedy fell completely flat.
+R0110,M006,V0157,2024-12-15,positive,9,"Gripping storyline, great visuals."
+R0111,M007,V0407,2024-12-19,negative,4,Poor screenplay and weak characters.
+R0112,M004,V0237,2024-11-08,negative,4,Not worth the time.
+R0113,M001,V0031,2025-02-28,negative,2,Disappointing story.
+R0114,M003,V0230,2024-11-02,negative,2,Not worth the time.
+R0115,M012,V0145,2024-12-25,negative,2,Poor screenplay and weak characters.
+R0116,M010,V0368,2025-02-01,negative,4,Comedy fell completely flat.
+R0117,M007,V0477,2025-03-14,negative,2,Poor screenplay and weak characters.
+R0118,M015,V0459,2025-01-30,negative,4,Disappointing story.
+R0119,M006,V0201,2024-11-19,negative,3,Poor screenplay and weak characters.
+R0120,M002,V0017,2024-12-04,negative,1,Comedy fell completely flat.
+R0121,M003,V0238,2025-03-18,positive,8,"Gripping storyline, great visuals."
+R0122,M013,V0231,2024-11-04,neutral,6,Average plot but good acting.
+R0123,M012,V0338,2024-12-20,positive,7,Highly recommend!
+R0124,M014,V0004,2024-11-12,negative,3,Poor screenplay and weak characters.
+R0125,M007,V0250,2024-12-25,negative,2,Not worth the time.
+R0126,M001,V0123,2025-02-09,negative,3,Comedy fell completely flat.
+R0127,M005,V0370,2024-11-16,negative,4,Comedy fell completely flat.
+R0128,M001,V0324,2025-01-01,negative,1,Poor screenplay and weak characters.
+R0129,M013,V0191,2024-12-26,positive,10,Absolutely loved it!
+R0130,M002,V0396,2025-02-06,positive,8,Must watch!
+R0131,M004,V0171,2025-03-24,negative,3,Poor screenplay and weak characters.
+R0132,M009,V0456,2025-02-13,positive,7,Highly recommend!
+R0133,M010,V0101,2025-01-20,positive,10,Absolutely loved it!
+R0134,M008,V0281,2024-12-14,positive,10,Highly recommend!
+R0135,M013,V0023,2024-12-12,positive,8,Outstanding performance.
+R0136,M001,V0302,2025-03-10,positive,7,Absolutely loved it!
+R0137,M008,V0476,2025-01-27,positive,7,Highly recommend!
+R0138,M010,V0473,2024-12-20,negative,4,Not worth the time.
+R0139,M008,V0154,2025-03-16,neutral,5,"Decent watch, nothing special."
+R0140,M014,V0343,2025-02-26,negative,4,Poor screenplay and weak characters.
+R0141,M007,V0003,2025-02-13,neutral,5,"Decent watch, nothing special."
+R0142,M001,V0488,2025-01-24,negative,4,Not worth the time.
+R0143,M007,V0221,2024-10-13,negative,1,Disappointing story.
+R0144,M013,V0275,2025-02-17,neutral,5,Average plot but good acting.
+R0145,M001,V0445,2025-03-13,positive,9,Outstanding performance.
+R0146,M013,V0340,2024-10-14,positive,10,"Gripping storyline, great visuals."
+R0147,M010,V0274,2025-03-19,negative,4,Poor screenplay and weak characters.
+R0148,M013,V0438,2024-11-30,negative,2,Comedy fell completely flat.
+R0149,M009,V0091,2025-02-17,neutral,6,"It was okay, expected more."
+R0150,M004,V0351,2025-01-18,negative,1,Disappointing story.
+R0151,M006,V0485,2025-01-31,negative,4,Disappointing story.
+R0152,M002,V0477,2024-12-06,negative,3,Not worth the time.
+R0153,M011,V0344,2024-12-05,neutral,5,Average plot but good acting.
+R0154,M003,V0105,2024-11-11,positive,7,Outstanding performance.
+R0155,M002,V0159,2025-02-16,neutral,5,"It was okay, expected more."
+R0156,M009,V0040,2024-11-09,negative,2,Disappointing story.
+R0157,M014,V0489,2024-12-01,negative,1,Disappointing story.
+R0158,M013,V0495,2024-11-15,neutral,5,"Decent watch, nothing special."
+R0159,M013,V0173,2024-11-01,positive,8,Highly recommend!
+R0160,M013,V0239,2025-02-08,positive,9,Absolutely loved it!
+R0161,M008,V0143,2024-10-22,positive,10,Outstanding performance.
+R0162,M013,V0181,2024-11-15,negative,2,Comedy fell completely flat.
+R0163,M013,V0280,2024-12-04,negative,4,Disappointing story.
+R0164,M015,V0412,2024-10-23,positive,10,Absolutely loved it!
+R0165,M003,V0176,2024-11-11,negative,3,Not worth the time.
+R0166,M008,V0016,2024-12-27,neutral,6,Average plot but good acting.
+R0167,M013,V0054,2025-02-09,positive,7,"Gripping storyline, great visuals."
+R0168,M004,V0098,2025-03-08,negative,3,Comedy fell completely flat.
+R0169,M013,V0383,2025-03-28,positive,10,Absolutely loved it!
+R0170,M012,V0428,2025-03-18,negative,4,Comedy fell completely flat.
+R0171,M009,V0199,2024-12-22,positive,8,Outstanding performance.
+R0172,M004,V0019,2025-01-24,negative,1,Not worth the time.
+R0173,M001,V0182,2024-10-05,positive,10,Outstanding performance.
+R0174,M011,V0213,2024-10-02,neutral,6,Average plot but good acting.
+R0175,M014,V0044,2024-11-04,positive,8,Absolutely loved it!
+R0176,M010,V0288,2024-10-30,positive,9,Highly recommend!
+R0177,M003,V0254,2025-02-19,positive,8,Highly recommend!
+R0178,M012,V0062,2025-03-09,neutral,6,"Decent watch, nothing special."
+R0179,M013,V0126,2024-12-19,neutral,6,"It was okay, expected more."
+R0180,M014,V0151,2024-10-10,positive,7,Absolutely loved it!
+R0181,M001,V0341,2024-11-05,neutral,5,"It was okay, expected more."
+R0182,M005,V0079,2024-12-11,positive,7,Outstanding performance.
+R0183,M014,V0039,2025-02-13,positive,7,Outstanding performance.
+R0184,M002,V0158,2024-12-16,positive,8,"Gripping storyline, great visuals."
+R0185,M001,V0146,2024-12-23,negative,1,Not worth the time.
+R0186,M012,V0446,2024-11-05,negative,2,Disappointing story.
+R0187,M006,V0049,2024-12-07,negative,2,Poor screenplay and weak characters.
+R0188,M006,V0094,2025-02-25,negative,2,Not worth the time.
+R0189,M010,V0119,2024-10-13,negative,2,Poor screenplay and weak characters.
+R0190,M005,V0387,2025-02-16,positive,9,Absolutely loved it!
+R0191,M013,V0479,2025-02-25,positive,9,Highly recommend!
+R0192,M005,V0337,2024-12-16,positive,9,Absolutely loved it!
+R0193,M015,V0386,2024-10-11,positive,7,Outstanding performance.
+R0194,M015,V0048,2025-03-18,positive,7,Outstanding performance.
+R0195,M005,V0071,2024-10-18,negative,1,Disappointing story.
+R0196,M010,V0055,2025-01-31,negative,1,Disappointing story.
+R0197,M008,V0208,2025-02-16,neutral,6,"Decent watch, nothing special."
+R0198,M005,V0303,2025-02-21,negative,3,Not worth the time.
+R0199,M002,V0087,2024-11-17,neutral,6,"It was okay, expected more."
+R0200,M015,V0359,2024-10-27,positive,10,Absolutely loved it!
+R0201,M008,V0374,2024-11-02,negative,4,Not worth the time.
+R0202,M012,V0123,2025-01-13,positive,9,Absolutely loved it!
+R0203,M011,V0449,2024-12-09,positive,9,Highly recommend!
+R0204,M013,V0253,2025-02-18,negative,4,Not worth the time.
+R0205,M001,V0109,2025-03-06,positive,7,"Gripping storyline, great visuals."
+R0206,M004,V0150,2024-12-28,positive,9,Must watch!
+R0207,M007,V0211,2025-02-26,positive,10,Outstanding performance.
+R0208,M005,V0316,2024-11-01,negative,4,Comedy fell completely flat.
+R0209,M005,V0255,2024-10-01,positive,10,Absolutely loved it!
+R0210,M007,V0098,2024-12-04,positive,10,Must watch!
+R0211,M010,V0417,2025-03-14,negative,3,Disappointing story.
+R0212,M011,V0068,2024-10-11,negative,4,Not worth the time.
+R0213,M004,V0375,2024-10-19,negative,1,Comedy fell completely flat.
+R0214,M003,V0142,2024-10-29,negative,4,Disappointing story.
+R0215,M011,V0368,2024-10-29,negative,4,Disappointing story.
+R0216,M007,V0175,2024-11-22,negative,2,Comedy fell completely flat.
+R0217,M003,V0371,2025-03-15,negative,3,Disappointing story.
+R0218,M014,V0167,2025-01-14,neutral,6,Average plot but good acting.
+R0219,M011,V0349,2024-12-10,positive,9,"Gripping storyline, great visuals."
+R0220,M011,V0440,2025-03-12,negative,4,Not worth the time.
+R0221,M004,V0181,2024-11-18,positive,7,Must watch!
+R0222,M008,V0486,2024-12-10,positive,8,"Gripping storyline, great visuals."
+R0223,M001,V0002,2025-01-19,neutral,5,Average plot but good acting.
+R0224,M003,V0401,2024-10-16,negative,1,Comedy fell completely flat.
+R0225,M009,V0105,2025-01-14,neutral,5,"Decent watch, nothing special."
+R0226,M015,V0073,2024-12-12,neutral,5,Average plot but good acting.
+R0227,M003,V0394,2024-10-04,positive,7,"Gripping storyline, great visuals."
+R0228,M013,V0034,2025-02-28,positive,9,"Gripping storyline, great visuals."
+R0229,M006,V0330,2024-11-27,neutral,5,Average plot but good acting.
+R0230,M004,V0430,2025-01-31,neutral,5,Average plot but good acting.
+R0231,M005,V0246,2024-11-26,negative,3,Comedy fell completely flat.
+R0232,M015,V0009,2024-11-30,negative,3,Comedy fell completely flat.
+R0233,M007,V0486,2025-02-19,negative,4,Not worth the time.
+R0234,M002,V0370,2025-01-03,neutral,5,"It was okay, expected more."
+R0235,M005,V0140,2025-03-18,negative,2,Poor screenplay and weak characters.
+R0236,M012,V0011,2024-10-17,positive,7,Highly recommend!
+R0237,M015,V0124,2024-12-12,negative,2,Poor screenplay and weak characters.
+R0238,M013,V0388,2025-03-21,negative,4,Not worth the time.
+R0239,M011,V0271,2024-10-01,positive,8,Must watch!
+R0240,M001,V0394,2025-03-26,neutral,6,"It was okay, expected more."
+R0241,M007,V0175,2024-10-01,positive,10,"Gripping storyline, great visuals."
+R0242,M004,V0056,2024-12-18,negative,3,Comedy fell completely flat.
+R0243,M005,V0301,2024-11-21,neutral,5,"It was okay, expected more."
+R0244,M007,V0290,2025-02-22,positive,10,Outstanding performance.
+R0245,M002,V0242,2025-03-09,positive,7,Must watch!
+R0246,M015,V0167,2024-10-12,negative,4,Poor screenplay and weak characters.
+R0247,M006,V0389,2024-12-01,positive,8,Highly recommend!
+R0248,M006,V0117,2025-01-19,positive,8,Highly recommend!
+R0249,M001,V0053,2025-02-22,negative,2,Not worth the time.
+R0250,M004,V0444,2024-10-12,positive,7,Must watch!
+R0251,M008,V0274,2024-10-19,positive,7,Absolutely loved it!
+R0252,M011,V0226,2024-11-04,positive,9,Must watch!
+R0253,M012,V0112,2025-01-03,negative,4,Disappointing story.
+R0254,M001,V0006,2025-02-28,neutral,5,Average plot but good acting.
+R0255,M002,V0330,2025-02-28,neutral,5,Average plot but good acting.
+R0256,M015,V0048,2024-12-27,negative,4,Not worth the time.
+R0257,M010,V0048,2024-12-04,negative,2,Not worth the time.
+R0258,M001,V0353,2024-12-10,positive,8,Highly recommend!
+R0259,M003,V0475,2025-02-03,negative,1,Not worth the time.
+R0260,M013,V0455,2024-12-24,positive,7,Absolutely loved it!
+R0261,M002,V0299,2024-11-28,positive,9,Highly recommend!
+R0262,M005,V0219,2025-03-28,negative,1,Poor screenplay and weak characters.
+R0263,M015,V0386,2025-01-24,neutral,6,"It was okay, expected more."
+R0264,M012,V0014,2024-10-25,negative,3,Disappointing story.
+R0265,M011,V0099,2024-11-14,neutral,5,"Decent watch, nothing special."
+R0266,M004,V0376,2024-11-15,negative,1,Not worth the time.
+R0267,M014,V0102,2024-11-03,negative,4,Poor screenplay and weak characters.
+R0268,M008,V0339,2025-01-24,negative,1,Not worth the time.
+R0269,M010,V0017,2024-10-31,negative,3,Not worth the time.
+R0270,M006,V0428,2025-03-25,neutral,5,Average plot but good acting.
+R0271,M003,V0427,2024-11-10,negative,2,Comedy fell completely flat.
+R0272,M007,V0088,2025-01-04,negative,1,Disappointing story.
+R0273,M009,V0351,2025-01-16,negative,3,Disappointing story.
+R0274,M002,V0109,2024-10-19,negative,3,Not worth the time.
+R0275,M007,V0223,2024-11-28,negative,2,Not worth the time.
+R0276,M005,V0366,2025-02-20,positive,9,Highly recommend!
+R0277,M015,V0461,2025-02-27,positive,10,Outstanding performance.
+R0278,M015,V0081,2025-03-02,positive,8,Highly recommend!
+R0279,M011,V0111,2025-01-23,positive,10,"Gripping storyline, great visuals."
+R0280,M003,V0429,2025-01-22,positive,10,Outstanding performance.
+R0281,M006,V0311,2024-11-24,neutral,5,"It was okay, expected more."
+R0282,M013,V0101,2025-01-12,negative,1,Poor screenplay and weak characters.
+R0283,M007,V0239,2024-10-24,positive,9,Highly recommend!
+R0284,M002,V0462,2024-10-14,negative,3,Not worth the time.
+R0285,M012,V0487,2024-10-29,positive,9,Highly recommend!
+R0286,M008,V0466,2025-03-16,positive,7,Highly recommend!
+R0287,M012,V0028,2025-02-10,negative,3,Not worth the time.
+R0288,M009,V0410,2024-11-02,negative,4,Not worth the time.
+R0289,M015,V0261,2025-03-05,negative,1,Disappointing story.
+R0290,M004,V0283,2024-10-22,positive,9,Outstanding performance.
+R0291,M009,V0048,2024-12-06,positive,9,Outstanding performance.
+R0292,M006,V0070,2024-11-15,positive,9,Absolutely loved it!
+R0293,M007,V0436,2024-11-22,positive,8,Must watch!
+R0294,M013,V0358,2025-03-12,negative,4,Disappointing story.
+R0295,M009,V0320,2025-01-22,negative,3,Disappointing story.
+R0296,M007,V0042,2024-12-22,positive,9,"Gripping storyline, great visuals."
+R0297,M003,V0434,2024-12-26,neutral,5,"Decent watch, nothing special."
+R0298,M001,V0400,2024-10-07,negative,1,Disappointing story.
+R0299,M014,V0043,2024-12-22,negative,1,Not worth the time.
+R0300,M013,V0042,2024-10-22,positive,10,Must watch!
+R0301,M008,V0225,2025-02-15,negative,2,Poor screenplay and weak characters.
+R0302,M001,V0014,2024-11-08,positive,10,Outstanding performance.
+R0303,M006,V0345,2024-10-30,positive,7,Highly recommend!
+R0304,M011,V0386,2024-12-14,neutral,5,Average plot but good acting.
+R0305,M003,V0280,2024-11-07,negative,2,Comedy fell completely flat.
+R0306,M005,V0268,2024-10-20,positive,8,Must watch!
+R0307,M003,V0257,2025-03-09,neutral,5,"Decent watch, nothing special."
+R0308,M006,V0241,2024-10-11,positive,7,Highly recommend!
+R0309,M007,V0014,2024-10-12,positive,8,Highly recommend!
+R0310,M001,V0339,2024-12-06,negative,1,Not worth the time.
+R0311,M007,V0326,2024-12-27,neutral,6,"Decent watch, nothing special."
+R0312,M006,V0141,2025-02-13,positive,9,Must watch!
+R0313,M007,V0289,2024-11-01,positive,7,Must watch!
+R0314,M007,V0409,2024-12-08,negative,3,Not worth the time.
+R0315,M006,V0339,2024-10-13,neutral,6,Average plot but good acting.
+R0316,M005,V0402,2025-02-25,negative,3,Comedy fell completely flat.
+R0317,M012,V0283,2024-10-11,negative,1,Comedy fell completely flat.
+R0318,M001,V0107,2024-12-01,positive,7,"Gripping storyline, great visuals."
+R0319,M010,V0286,2025-01-26,positive,10,Highly recommend!
+R0320,M006,V0396,2025-03-09,negative,1,Not worth the time.
+R0321,M003,V0032,2024-12-08,negative,2,Disappointing story.
+R0322,M015,V0444,2025-01-09,negative,2,Poor screenplay and weak characters.
+R0323,M014,V0064,2025-02-20,positive,9,Highly recommend!
+R0324,M012,V0134,2025-03-10,negative,1,Poor screenplay and weak characters.
+R0325,M014,V0281,2025-01-30,negative,3,Comedy fell completely flat.
+R0326,M015,V0265,2024-11-19,negative,4,Comedy fell completely flat.
+R0327,M012,V0271,2025-03-15,negative,4,Disappointing story.
+R0328,M007,V0125,2024-11-09,neutral,5,"It was okay, expected more."
+R0329,M002,V0357,2025-01-11,negative,3,Poor screenplay and weak characters.
+R0330,M012,V0268,2025-02-24,negative,3,Poor screenplay and weak characters.
+R0331,M007,V0082,2024-10-06,neutral,5,"Decent watch, nothing special."
+R0332,M015,V0388,2024-11-03,positive,7,Outstanding performance.
+R0333,M012,V0221,2024-11-24,positive,9,Absolutely loved it!
+R0334,M005,V0043,2025-01-27,neutral,5,"Decent watch, nothing special."
+R0335,M014,V0150,2025-03-11,positive,7,"Gripping storyline, great visuals."
+R0336,M003,V0485,2025-01-04,neutral,6,Average plot but good acting.
+R0337,M014,V0096,2025-01-12,negative,1,Not worth the time.
+R0338,M012,V0175,2025-02-17,neutral,6,"It was okay, expected more."
+R0339,M003,V0099,2024-10-06,neutral,5,"It was okay, expected more."
+R0340,M002,V0194,2024-12-18,positive,8,"Gripping storyline, great visuals."
+R0341,M013,V0442,2024-12-14,neutral,5,"It was okay, expected more."
+R0342,M010,V0259,2024-10-06,positive,9,Must watch!
+R0343,M012,V0189,2024-12-01,negative,2,Not worth the time.
+R0344,M014,V0170,2024-11-04,neutral,5,Average plot but good acting.
+R0345,M010,V0345,2025-03-26,negative,1,Poor screenplay and weak characters.
+R0346,M001,V0352,2025-03-13,neutral,5,"Decent watch, nothing special."
+R0347,M014,V0123,2024-11-22,neutral,5,"Decent watch, nothing special."
+R0348,M004,V0100,2025-02-12,neutral,6,Average plot but good acting.
+R0349,M010,V0453,2024-11-01,neutral,6,Average plot but good acting.
+R0350,M012,V0414,2024-11-06,negative,4,Disappointing story.
+R0351,M002,V0365,2025-03-03,negative,2,Comedy fell completely flat.
+R0352,M009,V0370,2024-11-01,positive,8,Highly recommend!
+R0353,M001,V0500,2024-11-20,positive,10,Must watch!
+R0354,M010,V0324,2025-03-23,negative,2,Not worth the time.
+R0355,M008,V0069,2025-01-12,negative,4,Poor screenplay and weak characters.
+R0356,M004,V0452,2025-01-13,negative,1,Disappointing story.
+R0357,M012,V0490,2024-10-22,negative,2,Comedy fell completely flat.
+R0358,M013,V0200,2024-10-25,neutral,6,Average plot but good acting.
+R0359,M009,V0399,2025-02-19,positive,7,Highly recommend!
+R0360,M015,V0006,2024-11-17,negative,1,Not worth the time.
+R0361,M014,V0416,2024-10-08,negative,1,Disappointing story.
+R0362,M006,V0058,2025-02-18,positive,7,Must watch!
+R0363,M014,V0269,2024-10-04,positive,10,Must watch!
+R0364,M012,V0171,2025-01-29,positive,7,"Gripping storyline, great visuals."
+R0365,M005,V0422,2025-03-02,neutral,5,"Decent watch, nothing special."
+R0366,M012,V0470,2024-10-01,positive,7,Highly recommend!
+R0367,M011,V0201,2025-01-03,negative,4,Poor screenplay and weak characters.
+R0368,M003,V0040,2024-12-19,negative,1,Disappointing story.
+R0369,M013,V0446,2025-02-12,negative,2,Poor screenplay and weak characters.
+R0370,M002,V0150,2024-11-27,positive,9,Must watch!
+R0371,M007,V0245,2024-12-27,positive,9,Absolutely loved it!
+R0372,M010,V0388,2025-01-13,negative,3,Not worth the time.
+R0373,M003,V0483,2024-11-25,negative,3,Not worth the time.
+R0374,M002,V0232,2024-12-10,negative,4,Poor screenplay and weak characters.
+R0375,M006,V0040,2024-10-24,positive,7,Outstanding performance.
+R0376,M015,V0357,2024-12-15,negative,1,Not worth the time.
+R0377,M009,V0209,2024-10-11,positive,9,Outstanding performance.
+R0378,M011,V0399,2024-12-26,negative,1,Not worth the time.
+R0379,M008,V0220,2025-01-20,positive,7,Absolutely loved it!
+R0380,M009,V0060,2024-11-02,negative,2,Comedy fell completely flat.
+R0381,M013,V0481,2024-10-11,negative,1,Not worth the time.
+R0382,M014,V0267,2024-11-22,negative,1,Poor screenplay and weak characters.
+R0383,M007,V0453,2025-03-05,positive,7,Absolutely loved it!
+R0384,M014,V0198,2024-11-09,negative,1,Comedy fell completely flat.
+R0385,M002,V0482,2024-11-24,neutral,6,"Decent watch, nothing special."
+R0386,M003,V0131,2024-12-27,negative,4,Poor screenplay and weak characters.
+R0387,M001,V0261,2025-02-18,positive,7,Must watch!
+R0388,M007,V0056,2025-02-02,positive,10,"Gripping storyline, great visuals."
+R0389,M007,V0330,2024-11-06,positive,9,Highly recommend!
+R0390,M004,V0426,2024-12-07,positive,9,Outstanding performance.
+R0391,M012,V0060,2024-12-01,negative,1,Poor screenplay and weak characters.
+R0392,M015,V0003,2025-02-13,positive,9,"Gripping storyline, great visuals."
+R0393,M013,V0176,2024-12-16,negative,4,Not worth the time.
+R0394,M008,V0378,2025-02-13,positive,9,Must watch!
+R0395,M007,V0109,2024-11-29,negative,1,Poor screenplay and weak characters.
+R0396,M010,V0028,2024-10-27,negative,2,Poor screenplay and weak characters.
+R0397,M008,V0311,2024-10-13,negative,1,Poor screenplay and weak characters.
+R0398,M010,V0363,2024-10-17,positive,10,Outstanding performance.
+R0399,M005,V0094,2024-10-05,positive,10,"Gripping storyline, great visuals."
+R0400,M005,V0414,2024-11-12,positive,10,"Gripping storyline, great visuals."
+R0401,M013,V0362,2025-02-24,positive,10,Highly recommend!
+R0402,M011,V0393,2025-03-09,positive,7,Highly recommend!
+R0403,M013,V0446,2025-03-18,positive,7,Outstanding performance.
+R0404,M014,V0329,2025-03-04,positive,9,Highly recommend!
+R0405,M012,V0046,2025-02-11,positive,8,Outstanding performance.
+R0406,M003,V0402,2025-01-02,positive,9,Highly recommend!
+R0407,M007,V0128,2024-11-07,positive,10,Outstanding performance.
+R0408,M010,V0151,2024-10-06,negative,2,Poor screenplay and weak characters.
+R0409,M010,V0406,2024-11-19,positive,10,Must watch!
+R0410,M015,V0056,2024-11-17,negative,4,Not worth the time.
+R0411,M005,V0398,2025-01-19,negative,3,Comedy fell completely flat.
+R0412,M010,V0492,2024-10-15,positive,9,"Gripping storyline, great visuals."
+R0413,M010,V0286,2025-01-30,negative,1,Not worth the time.
+R0414,M007,V0235,2025-01-15,negative,2,Disappointing story.
+R0415,M011,V0090,2024-11-25,positive,8,Outstanding performance.
+R0416,M009,V0267,2025-03-05,negative,4,Not worth the time.
+R0417,M006,V0465,2025-01-01,positive,10,Must watch!
+R0418,M015,V0071,2025-03-18,positive,9,Highly recommend!
+R0419,M013,V0429,2024-12-12,negative,1,Disappointing story.
+R0420,M015,V0492,2025-01-13,neutral,6,"It was okay, expected more."
+R0421,M002,V0462,2025-03-27,negative,3,Comedy fell completely flat.
+R0422,M006,V0282,2024-11-07,negative,1,Comedy fell completely flat.
+R0423,M010,V0279,2025-03-23,neutral,6,"Decent watch, nothing special."
+R0424,M007,V0048,2025-02-18,neutral,5,Average plot but good acting.
+R0425,M010,V0177,2025-01-13,positive,7,Absolutely loved it!
+R0426,M015,V0008,2025-02-21,negative,4,Comedy fell completely flat.
+R0427,M013,V0051,2025-03-22,positive,7,Must watch!
+R0428,M013,V0414,2025-02-13,negative,4,Poor screenplay and weak characters.
+R0429,M010,V0473,2024-10-31,neutral,6,Average plot but good acting.
+R0430,M014,V0398,2024-12-08,negative,4,Comedy fell completely flat.
+R0431,M009,V0124,2025-02-28,negative,3,Poor screenplay and weak characters.
+R0432,M014,V0140,2025-03-10,positive,9,Absolutely loved it!
+R0433,M014,V0427,2024-11-12,negative,1,Comedy fell completely flat.
+R0434,M013,V0001,2024-10-02,negative,4,Comedy fell completely flat.
+R0435,M010,V0465,2025-01-08,positive,7,Absolutely loved it!
+R0436,M001,V0427,2025-01-08,negative,2,Not worth the time.
+R0437,M002,V0343,2024-11-19,negative,2,Poor screenplay and weak characters.
+R0438,M014,V0025,2024-10-17,negative,1,Comedy fell completely flat.
+R0439,M009,V0314,2025-03-15,negative,1,Poor screenplay and weak characters.
+R0440,M002,V0323,2025-03-05,neutral,5,"Decent watch, nothing special."
+R0441,M014,V0028,2025-01-25,neutral,6,Average plot but good acting.
+R0442,M013,V0442,2025-03-11,negative,3,Not worth the time.
+R0443,M014,V0487,2025-01-22,positive,10,"Gripping storyline, great visuals."
+R0444,M011,V0026,2025-01-03,negative,3,Not worth the time.
+R0445,M011,V0139,2024-10-05,neutral,5,Average plot but good acting.
+R0446,M008,V0307,2024-12-12,positive,8,"Gripping storyline, great visuals."
+R0447,M003,V0366,2025-01-23,negative,1,Not worth the time.
+R0448,M012,V0391,2025-01-14,positive,7,Must watch!
+R0449,M010,V0177,2024-10-05,negative,3,Disappointing story.
+R0450,M012,V0372,2025-03-10,positive,8,"Gripping storyline, great visuals."
+R0451,M015,V0473,2024-10-13,positive,7,Must watch!
+R0452,M010,V0035,2024-12-07,positive,10,Absolutely loved it!
+R0453,M007,V0346,2025-02-14,positive,9,Outstanding performance.
+R0454,M002,V0102,2024-11-21,negative,4,Comedy fell completely flat.
+R0455,M004,V0480,2024-11-03,negative,2,Poor screenplay and weak characters.
+R0456,M006,V0104,2024-12-28,negative,3,Comedy fell completely flat.
+R0457,M002,V0279,2024-10-21,positive,8,"Gripping storyline, great visuals."
+R0458,M001,V0435,2024-11-12,negative,4,Disappointing story.
+R0459,M002,V0084,2024-10-01,positive,10,"Gripping storyline, great visuals."
+R0460,M002,V0385,2025-01-17,negative,4,Not worth the time.
+R0461,M014,V0343,2024-12-21,positive,9,Must watch!
+R0462,M008,V0280,2025-02-24,positive,8,Outstanding performance.
+R0463,M007,V0098,2024-11-25,negative,2,Comedy fell completely flat.
+R0464,M002,V0152,2024-12-18,positive,9,Outstanding performance.
+R0465,M010,V0372,2024-11-13,negative,1,Poor screenplay and weak characters.
+R0466,M001,V0443,2025-01-10,negative,3,Poor screenplay and weak characters.
+R0467,M009,V0499,2024-10-25,negative,1,Comedy fell completely flat.
+R0468,M005,V0028,2024-11-30,neutral,5,Average plot but good acting.
+R0469,M004,V0426,2024-10-27,neutral,5,Average plot but good acting.
+R0470,M008,V0056,2024-11-06,positive,9,"Gripping storyline, great visuals."
+R0471,M012,V0342,2025-02-09,positive,8,Must watch!
+R0472,M015,V0039,2024-10-04,negative,3,Not worth the time.
+R0473,M011,V0450,2025-02-03,negative,2,Not worth the time.
+R0474,M002,V0134,2025-02-10,negative,4,Comedy fell completely flat.
+R0475,M003,V0280,2024-12-27,positive,10,"Gripping storyline, great visuals."
+R0476,M013,V0225,2024-11-29,positive,10,"Gripping storyline, great visuals."
+R0477,M014,V0448,2025-02-16,negative,4,Not worth the time.
+R0478,M015,V0435,2025-02-09,negative,2,Not worth the time.
+R0479,M009,V0210,2024-10-08,neutral,6,Average plot but good acting.
+R0480,M004,V0385,2025-01-24,positive,10,Absolutely loved it!
+R0481,M008,V0279,2025-03-12,positive,10,"Gripping storyline, great visuals."
+R0482,M007,V0233,2025-01-31,negative,2,Disappointing story.
+R0483,M007,V0121,2025-01-12,positive,8,Highly recommend!
+R0484,M013,V0441,2024-10-04,negative,3,Poor screenplay and weak characters.
+R0485,M013,V0193,2025-02-16,negative,1,Not worth the time.
+R0486,M002,V0093,2024-11-27,negative,3,Poor screenplay and weak characters.
+R0487,M006,V0045,2025-01-09,negative,3,Poor screenplay and weak characters.
+R0488,M001,V0277,2025-01-23,neutral,6,"Decent watch, nothing special."
+R0489,M011,V0208,2025-02-23,neutral,5,"Decent watch, nothing special."
+R0490,M012,V0268,2025-03-16,negative,2,Not worth the time.
+R0491,M002,V0072,2024-12-23,positive,10,Highly recommend!
+R0492,M007,V0387,2025-03-02,positive,8,Absolutely loved it!
+R0493,M009,V0274,2025-03-24,positive,10,Outstanding performance.
+R0494,M004,V0320,2025-03-05,positive,7,Highly recommend!
+R0495,M005,V0445,2024-10-05,positive,9,Must watch!
+R0496,M003,V0436,2024-12-24,negative,1,Disappointing story.
+R0497,M010,V0340,2025-02-16,negative,4,Comedy fell completely flat.
+R0498,M012,V0367,2025-03-27,positive,10,Outstanding performance.
+R0499,M009,V0332,2024-11-03,neutral,5,Average plot but good acting.
+R0500,M015,V0173,2025-03-06,positive,10,Highly recommend!
+R0501,M009,V0332,2024-10-22,negative,2,Poor screenplay and weak characters.
+R0502,M006,V0321,2025-02-17,positive,8,Highly recommend!
+R0503,M008,V0356,2025-03-17,negative,1,Comedy fell completely flat.
+R0504,M002,V0473,2024-11-15,neutral,6,"Decent watch, nothing special."
+R0505,M015,V0206,2025-01-23,positive,9,"Gripping storyline, great visuals."
+R0506,M008,V0277,2025-03-18,negative,4,Not worth the time.
+R0507,M001,V0232,2024-12-10,positive,10,"Gripping storyline, great visuals."
+R0508,M013,V0494,2025-03-07,negative,2,Disappointing story.
+R0509,M012,V0254,2025-03-06,positive,8,Highly recommend!
+R0510,M008,V0278,2024-11-08,positive,7,Highly recommend!
+R0511,M010,V0259,2025-02-05,positive,7,Must watch!
+R0512,M014,V0164,2025-02-10,negative,3,Not worth the time.
+R0513,M008,V0405,2025-03-14,negative,1,Poor screenplay and weak characters.
+R0514,M011,V0001,2025-01-11,positive,9,Must watch!
+R0515,M011,V0189,2024-10-14,negative,4,Poor screenplay and weak characters.
+R0516,M015,V0340,2025-01-01,negative,1,Comedy fell completely flat.
+R0517,M007,V0170,2025-03-25,positive,10,"Gripping storyline, great visuals."
+R0518,M010,V0016,2025-03-22,negative,1,Disappointing story.
+R0519,M003,V0461,2025-02-16,neutral,5,"Decent watch, nothing special."
+R0520,M013,V0437,2025-01-04,neutral,6,Average plot but good acting.
+R0521,M005,V0479,2025-02-12,negative,3,Comedy fell completely flat.
+R0522,M008,V0202,2024-11-20,positive,10,Must watch!
+R0523,M006,V0151,2024-11-17,positive,10,Must watch!
+R0524,M011,V0350,2025-02-14,negative,3,Poor screenplay and weak characters.
+R0525,M013,V0426,2024-11-26,positive,7,Must watch!
+R0526,M009,V0479,2024-10-27,positive,10,Outstanding performance.
+R0527,M007,V0134,2024-10-21,negative,3,Poor screenplay and weak characters.
+R0528,M003,V0390,2024-12-26,positive,9,"Gripping storyline, great visuals."
+R0529,M003,V0200,2024-11-12,neutral,6,"It was okay, expected more."
+R0530,M003,V0485,2025-02-28,positive,7,Must watch!
+R0531,M014,V0176,2025-02-13,negative,4,Poor screenplay and weak characters.
+R0532,M002,V0441,2025-02-07,negative,4,Disappointing story.
+R0533,M009,V0190,2025-01-02,positive,7,Absolutely loved it!
+R0534,M011,V0266,2024-12-07,positive,8,"Gripping storyline, great visuals."
+R0535,M014,V0167,2024-10-05,positive,9,Highly recommend!
+R0536,M006,V0396,2025-03-24,positive,8,Outstanding performance.
+R0537,M014,V0115,2024-10-02,neutral,5,"Decent watch, nothing special."
+R0538,M005,V0062,2025-03-22,positive,10,Highly recommend!
+R0539,M014,V0039,2024-10-29,positive,10,"Gripping storyline, great visuals."
+R0540,M010,V0085,2024-10-13,positive,8,Must watch!
+R0541,M009,V0298,2024-11-30,neutral,6,Average plot but good acting.
+R0542,M013,V0045,2025-01-02,negative,1,Not worth the time.
+R0543,M007,V0046,2024-12-23,neutral,5,Average plot but good acting.
+R0544,M008,V0168,2024-12-23,negative,2,Not worth the time.
+R0545,M002,V0374,2024-11-14,negative,4,Poor screenplay and weak characters.
+R0546,M010,V0419,2025-01-16,negative,4,Comedy fell completely flat.
+R0547,M012,V0050,2024-11-30,positive,9,"Gripping storyline, great visuals."
+R0548,M008,V0024,2024-10-05,neutral,6,"It was okay, expected more."
+R0549,M005,V0357,2025-03-14,negative,3,Disappointing story.
+R0550,M005,V0019,2024-12-30,negative,2,Not worth the time.
+R0551,M008,V0316,2025-02-13,positive,7,Absolutely loved it!
+R0552,M012,V0269,2025-01-30,positive,10,Highly recommend!
+R0553,M001,V0376,2024-11-03,positive,10,"Gripping storyline, great visuals."
+R0554,M001,V0185,2024-11-03,neutral,5,"Decent watch, nothing special."
+R0555,M014,V0270,2025-02-20,positive,9,Outstanding performance.
+R0556,M007,V0456,2024-11-05,negative,3,Poor screenplay and weak characters.
+R0557,M009,V0214,2024-10-15,positive,7,Outstanding performance.
+R0558,M014,V0260,2025-01-15,positive,10,"Gripping storyline, great visuals."
+R0559,M009,V0144,2024-12-16,positive,8,Must watch!
+R0560,M003,V0362,2024-12-26,positive,8,Highly recommend!
+R0561,M006,V0278,2025-03-11,neutral,5,Average plot but good acting.
+R0562,M012,V0217,2025-01-02,positive,10,Outstanding performance.
+R0563,M013,V0148,2024-11-15,positive,10,Highly recommend!
+R0564,M003,V0491,2025-03-07,neutral,5,"Decent watch, nothing special."
+R0565,M002,V0171,2024-10-07,positive,7,Must watch!
+R0566,M015,V0452,2024-10-11,negative,1,Disappointing story.
+R0567,M003,V0191,2025-03-13,neutral,5,"Decent watch, nothing special."
+R0568,M010,V0038,2024-11-30,negative,4,Not worth the time.
+R0569,M011,V0410,2024-12-23,negative,2,Poor screenplay and weak characters.
+R0570,M002,V0003,2024-12-22,negative,4,Poor screenplay and weak characters.
+R0571,M008,V0268,2024-11-22,negative,1,Comedy fell completely flat.
+R0572,M009,V0350,2024-10-26,negative,3,Poor screenplay and weak characters.
+R0573,M005,V0436,2025-02-11,neutral,5,"It was okay, expected more."
+R0574,M010,V0198,2025-02-28,positive,7,Highly recommend!
+R0575,M012,V0074,2025-02-05,positive,8,Must watch!
+R0576,M007,V0461,2025-03-13,positive,8,"Gripping storyline, great visuals."
+R0577,M012,V0330,2025-01-14,neutral,5,"Decent watch, nothing special."
+R0578,M012,V0067,2025-01-02,negative,1,Not worth the time.
+R0579,M015,V0148,2024-11-23,neutral,6,"Decent watch, nothing special."
+R0580,M009,V0413,2024-11-14,negative,4,Disappointing story.
+R0581,M012,V0098,2024-10-17,negative,3,Not worth the time.
+R0582,M004,V0074,2025-03-15,positive,10,Absolutely loved it!
+R0583,M011,V0320,2024-10-24,neutral,5,"Decent watch, nothing special."
+R0584,M007,V0454,2024-10-24,negative,1,Not worth the time.
+R0585,M007,V0251,2024-11-10,neutral,5,"Decent watch, nothing special."
+R0586,M012,V0238,2024-12-28,positive,9,Absolutely loved it!
+R0587,M009,V0393,2025-01-29,negative,3,Comedy fell completely flat.
+R0588,M009,V0341,2025-01-25,negative,2,Not worth the time.
+R0589,M013,V0461,2024-12-29,negative,3,Comedy fell completely flat.
+R0590,M008,V0134,2025-01-01,neutral,6,"It was okay, expected more."
+R0591,M011,V0248,2024-11-04,neutral,5,Average plot but good acting.
+R0592,M003,V0483,2024-10-09,positive,10,Outstanding performance.
+R0593,M003,V0047,2025-02-08,positive,10,"Gripping storyline, great visuals."
+R0594,M007,V0124,2024-10-27,positive,9,"Gripping storyline, great visuals."
+R0595,M001,V0445,2024-11-16,positive,9,"Gripping storyline, great visuals."
+R0596,M002,V0090,2024-10-17,positive,8,"Gripping storyline, great visuals."
+R0597,M011,V0102,2025-01-22,negative,4,Not worth the time.
+R0598,M015,V0336,2025-02-27,positive,10,Must watch!
+R0599,M014,V0167,2024-11-16,negative,1,Not worth the time.
+R0600,M003,V0490,2025-02-23,positive,10,Highly recommend!
+R0601,M004,V0452,2024-11-13,positive,7,Absolutely loved it!
+R0602,M012,V0410,2024-12-23,positive,7,Highly recommend!
+R0603,M002,V0121,2025-02-19,neutral,5,"It was okay, expected more."
+R0604,M003,V0460,2024-11-12,negative,4,Poor screenplay and weak characters.
+R0605,M011,V0360,2024-12-02,neutral,6,"It was okay, expected more."
+R0606,M014,V0105,2024-12-21,positive,9,Highly recommend!
+R0607,M005,V0214,2024-11-01,neutral,5,Average plot but good acting.
+R0608,M012,V0378,2025-02-04,positive,8,Must watch!
+R0609,M003,V0149,2024-12-03,positive,7,Absolutely loved it!
+R0610,M010,V0134,2024-12-04,neutral,6,"It was okay, expected more."
+R0611,M013,V0313,2024-10-30,positive,8,Must watch!
+R0612,M015,V0310,2025-02-27,positive,8,"Gripping storyline, great visuals."
+R0613,M001,V0293,2024-11-14,negative,3,Comedy fell completely flat.
+R0614,M002,V0029,2024-12-24,negative,3,Not worth the time.
+R0615,M011,V0240,2025-02-12,positive,10,"Gripping storyline, great visuals."
+R0616,M012,V0110,2025-02-03,negative,2,Poor screenplay and weak characters.
+R0617,M003,V0488,2025-02-20,positive,10,Highly recommend!
+R0618,M004,V0077,2024-10-08,negative,3,Disappointing story.
+R0619,M003,V0204,2024-10-14,neutral,6,"It was okay, expected more."
+R0620,M004,V0020,2024-10-12,negative,3,Poor screenplay and weak characters.
+R0621,M013,V0251,2025-03-05,positive,9,"Gripping storyline, great visuals."
+R0622,M009,V0260,2025-02-23,positive,9,"Gripping storyline, great visuals."
+R0623,M006,V0355,2025-03-30,negative,4,Poor screenplay and weak characters.
+R0624,M011,V0183,2024-11-17,positive,9,Must watch!
+R0625,M011,V0202,2024-10-16,positive,9,Absolutely loved it!
+R0626,M004,V0143,2024-12-17,negative,1,Not worth the time.
+R0627,M015,V0331,2024-10-21,positive,7,Highly recommend!
+R0628,M014,V0165,2024-10-29,positive,10,"Gripping storyline, great visuals."
+R0629,M002,V0428,2024-11-11,neutral,6,"Decent watch, nothing special."
+R0630,M014,V0461,2024-10-24,positive,10,Absolutely loved it!
+R0631,M013,V0330,2025-02-25,negative,3,Not worth the time.
+R0632,M013,V0384,2024-12-29,positive,10,Absolutely loved it!
+R0633,M002,V0102,2025-01-31,neutral,5,Average plot but good acting.
+R0634,M011,V0099,2024-10-15,positive,9,Highly recommend!
+R0635,M014,V0467,2024-10-02,negative,4,Comedy fell completely flat.
+R0636,M008,V0108,2025-03-25,negative,2,Comedy fell completely flat.
+R0637,M002,V0496,2024-10-30,positive,10,Must watch!
+R0638,M007,V0325,2024-11-08,negative,1,Not worth the time.
+R0639,M002,V0081,2024-10-31,negative,4,Comedy fell completely flat.
+R0640,M007,V0386,2025-03-19,positive,8,Must watch!
+R0641,M001,V0311,2025-03-22,negative,2,Disappointing story.
+R0642,M002,V0196,2025-01-12,negative,2,Disappointing story.
+R0643,M003,V0022,2024-10-31,negative,3,Disappointing story.
+R0644,M008,V0371,2024-12-27,negative,3,Comedy fell completely flat.
+R0645,M015,V0102,2025-03-09,negative,4,Not worth the time.
+R0646,M001,V0293,2024-11-19,neutral,5,Average plot but good acting.
+R0647,M007,V0107,2025-02-15,neutral,6,"Decent watch, nothing special."
+R0648,M011,V0234,2025-03-16,negative,3,Poor screenplay and weak characters.
+R0649,M013,V0054,2024-11-08,positive,9,Outstanding performance.
+R0650,M003,V0047,2024-12-12,negative,2,Disappointing story.
+R0651,M013,V0350,2025-01-10,positive,9,Highly recommend!
+R0652,M003,V0441,2024-10-03,neutral,6,"It was okay, expected more."
+R0653,M011,V0069,2024-11-08,neutral,6,"It was okay, expected more."
+R0654,M005,V0066,2024-10-05,positive,7,Highly recommend!
+R0655,M004,V0496,2024-12-29,neutral,6,"It was okay, expected more."
+R0656,M007,V0415,2025-03-17,negative,2,Disappointing story.
+R0657,M013,V0367,2025-03-20,negative,4,Poor screenplay and weak characters.
+R0658,M003,V0255,2024-10-05,positive,10,Absolutely loved it!
+R0659,M004,V0061,2024-11-06,positive,8,Outstanding performance.
+R0660,M004,V0479,2024-12-31,positive,7,Highly recommend!
+R0661,M006,V0188,2025-01-08,positive,9,Outstanding performance.
+R0662,M013,V0109,2024-10-07,negative,3,Poor screenplay and weak characters.
+R0663,M002,V0014,2024-11-06,negative,3,Comedy fell completely flat.
+R0664,M015,V0217,2024-11-01,negative,1,Poor screenplay and weak characters.
+R0665,M010,V0246,2024-11-29,negative,3,Comedy fell completely flat.
+R0666,M005,V0086,2025-03-03,negative,1,Disappointing story.
+R0667,M008,V0221,2025-01-18,negative,2,Disappointing story.
+R0668,M007,V0067,2024-11-02,negative,4,Poor screenplay and weak characters.
+R0669,M009,V0176,2024-12-21,negative,2,Poor screenplay and weak characters.
+R0670,M014,V0424,2025-03-25,negative,3,Disappointing story.
+R0671,M004,V0017,2024-12-03,neutral,5,"Decent watch, nothing special."
+R0672,M002,V0316,2025-01-01,negative,1,Comedy fell completely flat.
+R0673,M008,V0469,2025-03-13,positive,10,"Gripping storyline, great visuals."
+R0674,M006,V0458,2024-12-18,positive,7,Highly recommend!
+R0675,M002,V0227,2025-03-01,neutral,6,"It was okay, expected more."
+R0676,M013,V0191,2024-12-12,neutral,6,Average plot but good acting.
+R0677,M014,V0485,2024-12-03,negative,3,Poor screenplay and weak characters.
+R0678,M008,V0071,2024-12-04,negative,2,Comedy fell completely flat.
+R0679,M007,V0057,2024-10-12,negative,1,Disappointing story.
+R0680,M013,V0409,2025-02-09,negative,2,Disappointing story.
+R0681,M001,V0014,2025-01-14,negative,4,Not worth the time.
+R0682,M002,V0205,2024-12-10,positive,8,Absolutely loved it!
+R0683,M008,V0217,2025-02-10,negative,3,Disappointing story.
+R0684,M009,V0265,2024-10-25,negative,1,Poor screenplay and weak characters.
+R0685,M008,V0076,2025-03-01,negative,2,Disappointing story.
+R0686,M014,V0499,2024-12-27,negative,2,Disappointing story.
+R0687,M008,V0101,2025-02-08,negative,2,Disappointing story.
+R0688,M007,V0053,2024-12-03,positive,8,Absolutely loved it!
+R0689,M008,V0171,2024-10-21,negative,4,Disappointing story.
+R0690,M014,V0185,2025-02-13,neutral,5,Average plot but good acting.
+R0691,M008,V0103,2025-01-11,neutral,5,"Decent watch, nothing special."
+R0692,M002,V0013,2024-10-05,negative,4,Comedy fell completely flat.
+R0693,M003,V0273,2025-02-13,neutral,6,"It was okay, expected more."
+R0694,M006,V0219,2025-03-30,positive,8,"Gripping storyline, great visuals."
+R0695,M010,V0255,2024-10-08,neutral,5,"Decent watch, nothing special."
+R0696,M002,V0003,2024-12-25,positive,9,Must watch!
+R0697,M011,V0311,2025-01-12,negative,4,Not worth the time.
+R0698,M014,V0473,2024-12-05,positive,8,"Gripping storyline, great visuals."
+R0699,M015,V0224,2024-11-08,positive,7,Absolutely loved it!
+R0700,M006,V0033,2025-02-12,positive,10,Must watch!
+R0701,M014,V0359,2025-01-30,negative,3,Disappointing story.
+R0702,M001,V0137,2025-01-12,negative,1,Comedy fell completely flat.
+R0703,M007,V0160,2024-12-24,negative,2,Disappointing story.
+R0704,M013,V0408,2024-10-30,negative,2,Disappointing story.
+R0705,M008,V0249,2025-03-20,positive,10,"Gripping storyline, great visuals."
+R0706,M002,V0020,2024-10-06,neutral,5,"It was okay, expected more."
+R0707,M011,V0300,2024-11-30,neutral,5,"It was okay, expected more."
+R0708,M013,V0035,2025-02-22,positive,9,Outstanding performance.
+R0709,M010,V0162,2024-12-03,negative,1,Disappointing story.
+R0710,M006,V0022,2024-12-05,negative,3,Disappointing story.
+R0711,M013,V0153,2025-03-15,positive,10,Highly recommend!
+R0712,M014,V0476,2025-01-10,positive,8,Highly recommend!
+R0713,M009,V0328,2024-11-27,positive,8,Absolutely loved it!
+R0714,M004,V0303,2025-01-21,positive,8,Absolutely loved it!
+R0715,M014,V0196,2025-03-04,positive,7,Highly recommend!
+R0716,M012,V0053,2025-01-14,neutral,5,Average plot but good acting.
+R0717,M002,V0111,2025-02-02,negative,3,Poor screenplay and weak characters.
+R0718,M001,V0246,2025-02-24,positive,8,Outstanding performance.
+R0719,M004,V0426,2024-11-14,negative,4,Poor screenplay and weak characters.
+R0720,M007,V0108,2025-03-26,negative,3,Poor screenplay and weak characters.
+R0721,M010,V0467,2024-10-30,positive,10,Highly recommend!
+R0722,M008,V0035,2024-12-07,negative,1,Not worth the time.
+R0723,M015,V0435,2025-03-19,positive,7,Must watch!
+R0724,M001,V0240,2024-10-14,negative,4,Comedy fell completely flat.
+R0725,M014,V0433,2024-11-13,positive,9,Absolutely loved it!
+R0726,M002,V0029,2024-11-10,positive,7,Absolutely loved it!
+R0727,M011,V0049,2025-02-17,neutral,5,"Decent watch, nothing special."
+R0728,M004,V0351,2025-03-29,neutral,6,"It was okay, expected more."
+R0729,M010,V0305,2025-02-07,positive,9,Highly recommend!
+R0730,M008,V0460,2024-10-29,negative,3,Disappointing story.
+R0731,M008,V0375,2025-02-15,negative,1,Poor screenplay and weak characters.
+R0732,M015,V0016,2024-10-19,positive,9,Highly recommend!
+R0733,M015,V0458,2024-12-06,positive,7,Outstanding performance.
+R0734,M009,V0083,2024-10-31,negative,3,Comedy fell completely flat.
+R0735,M015,V0268,2025-02-09,neutral,6,"It was okay, expected more."
+R0736,M015,V0293,2025-01-21,negative,4,Poor screenplay and weak characters.
+R0737,M008,V0277,2024-11-14,negative,1,Disappointing story.
+R0738,M013,V0133,2025-02-16,negative,1,Disappointing story.
+R0739,M007,V0164,2025-01-30,positive,8,Absolutely loved it!
+R0740,M014,V0432,2024-11-18,negative,3,Comedy fell completely flat.
+R0741,M010,V0154,2025-03-02,negative,2,Comedy fell completely flat.
+R0742,M002,V0479,2024-11-10,negative,2,Comedy fell completely flat.
+R0743,M011,V0139,2024-11-12,positive,10,Highly recommend!
+R0744,M011,V0287,2025-02-07,positive,7,Must watch!
+R0745,M008,V0297,2025-03-21,positive,7,"Gripping storyline, great visuals."
+R0746,M011,V0137,2024-10-12,negative,1,Poor screenplay and weak characters.
+R0747,M004,V0133,2024-10-23,negative,2,Comedy fell completely flat.
+R0748,M002,V0219,2024-10-12,neutral,6,Average plot but good acting.
+R0749,M015,V0329,2024-12-03,positive,9,Must watch!
+R0750,M008,V0346,2025-03-26,neutral,5,"It was okay, expected more."
+R0751,M009,V0171,2025-01-05,negative,4,Poor screenplay and weak characters.
+R0752,M002,V0298,2025-03-18,positive,8,"Gripping storyline, great visuals."
+R0753,M003,V0328,2024-10-12,neutral,5,"It was okay, expected more."
+R0754,M015,V0360,2025-03-13,positive,7,Outstanding performance.
+R0755,M014,V0193,2025-01-07,positive,10,Highly recommend!
+R0756,M004,V0480,2025-03-06,neutral,5,Average plot but good acting.
+R0757,M001,V0232,2025-02-08,neutral,5,Average plot but good acting.
+R0758,M003,V0228,2024-10-03,negative,2,Not worth the time.
+R0759,M009,V0053,2025-01-07,neutral,6,"Decent watch, nothing special."
+R0760,M003,V0297,2024-12-02,neutral,6,"It was okay, expected more."
+R0761,M007,V0278,2025-02-17,neutral,5,"Decent watch, nothing special."
+R0762,M001,V0496,2025-02-24,positive,9,Must watch!
+R0763,M005,V0205,2025-02-14,positive,9,Highly recommend!
+R0764,M004,V0022,2025-01-20,positive,10,Must watch!
+R0765,M005,V0246,2024-11-08,positive,7,Highly recommend!
+R0766,M008,V0295,2024-10-18,positive,10,"Gripping storyline, great visuals."
+R0767,M001,V0427,2024-10-17,positive,10,Absolutely loved it!
+R0768,M005,V0110,2024-10-29,negative,2,Not worth the time.
+R0769,M006,V0328,2024-11-11,positive,10,Must watch!
+R0770,M012,V0056,2024-11-29,positive,7,Must watch!
+R0771,M008,V0458,2024-10-01,positive,7,Outstanding performance.
+R0772,M003,V0023,2024-12-05,negative,4,Poor screenplay and weak characters.
+R0773,M009,V0049,2025-01-11,positive,9,Outstanding performance.
+R0774,M013,V0466,2024-11-12,negative,1,Poor screenplay and weak characters.
+R0775,M015,V0385,2024-12-17,neutral,5,Average plot but good acting.
+R0776,M003,V0064,2025-03-07,neutral,5,"Decent watch, nothing special."
+R0777,M007,V0333,2024-10-09,neutral,6,"Decent watch, nothing special."
+R0778,M012,V0141,2024-10-08,neutral,5,"It was okay, expected more."
+R0779,M007,V0433,2024-10-17,positive,7,"Gripping storyline, great visuals."
+R0780,M013,V0460,2024-10-17,positive,8,Highly recommend!
+R0781,M003,V0305,2025-02-15,neutral,5,"It was okay, expected more."
+R0782,M013,V0323,2024-10-11,positive,9,Highly recommend!
+R0783,M009,V0444,2025-01-11,negative,1,Comedy fell completely flat.
+R0784,M014,V0075,2024-10-25,positive,9,Outstanding performance.
+R0785,M002,V0139,2025-01-14,positive,8,Highly recommend!
+R0786,M014,V0404,2024-11-27,negative,2,Poor screenplay and weak characters.
+R0787,M010,V0471,2025-01-09,negative,3,Comedy fell completely flat.
+R0788,M005,V0217,2025-03-07,positive,9,Highly recommend!
+R0789,M010,V0358,2025-02-26,negative,4,Comedy fell completely flat.
+R0790,M012,V0282,2025-01-21,positive,10,Outstanding performance.
+R0791,M015,V0196,2025-02-23,positive,9,Outstanding performance.
+R0792,M012,V0168,2024-12-27,negative,2,Poor screenplay and weak characters.
+R0793,M006,V0057,2024-11-01,negative,1,Not worth the time.
+R0794,M012,V0348,2024-11-16,positive,10,Absolutely loved it!
+R0795,M014,V0185,2024-12-03,positive,8,"Gripping storyline, great visuals."
+R0796,M015,V0180,2024-10-30,negative,1,Disappointing story.
+R0797,M008,V0217,2025-03-24,negative,2,Disappointing story.
+R0798,M004,V0276,2025-02-20,positive,10,"Gripping storyline, great visuals."
+R0799,M004,V0161,2024-12-03,positive,7,"Gripping storyline, great visuals."
+R0800,M012,V0052,2025-02-09,negative,3,Poor screenplay and weak characters.
