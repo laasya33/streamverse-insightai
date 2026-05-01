@@ -153,21 +153,23 @@ REACT_APP_API_SECRET_KEY=your-secret-key-here
 ---
 
 ## Project Structure
+
+```
 streamverse-insightai/
 ├── backend/
-│   ├── main.py                  # FastAPI app entry point
-│   ├── database.py              # SQLite init and query runner
+│   ├── main.py
+│   ├── database.py
 │   ├── requirements.txt
 │   ├── Dockerfile
 │   ├── routers/
-│   │   ├── chat.py              # POST /api/chat/
-│   │   └── analytics.py        # GET /api/analytics/*
+│   │   ├── chat.py
+│   │   └── analytics.py
 │   ├── tools/
-│   │   ├── sql_tool.py          # SQL query tool definition
-│   │   ├── pdf_tool.py          # PDF search tool definition
-│   │   └── csv_tool.py          # CSV analysis tool definition
+│   │   ├── sql_tool.py
+│   │   ├── pdf_tool.py
+│   │   └── csv_tool.py
 │   ├── services/
-│   │   └── ai_service.py        # Groq orchestration + tool loop
+│   │   └── ai_service.py
 │   └── data/
 │       ├── movies.csv
 │       ├── viewers.csv
@@ -184,19 +186,21 @@ streamverse-insightai/
 ├── frontend/
 │   ├── package.json
 │   ├── Dockerfile
-│   ├── public/index.html
+│   ├── public/
+│   │   └── index.html
 │   └── src/
-│       ├── App.jsx              # Main layout
+│       ├── App.jsx
 │       ├── index.js
 │       ├── components/
-│       │   ├── ChatMessage.jsx  # Message bubble + tool trace
-│       │   ├── ChatInput.jsx    # Input bar + suggested questions
-│       │   └── Charts.jsx       # Analytics dashboard
+│       │   ├── ChatMessage.jsx
+│       │   ├── ChatInput.jsx
+│       │   └── Charts.jsx
 │       └── hooks/
-│           └── useChat.js       # Chat state + API calls
+│           └── useChat.js
 ├── docker-compose.yml
 ├── .env.example
 └── README.md
+```
 
 ---
 
